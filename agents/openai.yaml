@@ -1,0 +1,4 @@
+interface:
+  display_name: "ARI Proposal Generator"
+  short_description: "Crear propuestas comerciales ARI en Word"
+  default_prompt: "Crea una propuesta comercial ARI CONSULTING desde un briefing o mediante un formulario guiado."
